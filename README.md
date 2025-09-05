@@ -4,4 +4,4 @@
 Đây là README được chỉnh sửa từ conflict-demo
 >>>>>>> conflict-demo
 
-Giới thiệu: Tôi là Long, MSSV 223019.
+Thế thôi hẹ hhẹ hẹ
